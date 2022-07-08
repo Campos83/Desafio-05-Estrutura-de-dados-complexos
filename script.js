@@ -1,13 +1,13 @@
  let itens = ["Gabigol", "Arrascaeta", "João Gomes", "Rodrigo Caio", "Pedro"]
  console.log(itens)
 
- itens.unshift("Claúdia");
+ itens.unshift("Gabigol");
  console.log(itens)
 
  itens.splice(5,1)
  console.log(itens)
 
-itens.push("Roberta", "Willian")
+itens.push("Arrascaeta", "Rodrigo Caio")
 console.log(itens)
 
 itens.shift()
